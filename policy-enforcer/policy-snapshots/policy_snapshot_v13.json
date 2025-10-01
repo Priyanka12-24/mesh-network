@@ -1,0 +1,11 @@
+{
+  "version": 13,
+  "timestamp": 1695811200,
+  "signature": [],
+  "entries": [
+    { "sender": "RN-01", "target": "HQ-01", "relation": 16, "action": 4, "allow": true },
+    { "sender": "RN-01", "target": "HQ-01", "relation": 16, "action": 1, "allow": false },
+    { "sender": "RN-01", "target": "RN-02", "relation": 32, "action": 4, "allow": true },
+    { "sender": "RN-01", "target": "RN-02", "relation": 32, "action": 1, "allow": false }
+  ]
+}
